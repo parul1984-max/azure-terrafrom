@@ -10,7 +10,7 @@ variable "resource_group_name" {
 
 variable "resource_group_name" {
   description = "parul"
-  default     = "parul"
+  default     = "parul1"
 }
 
 
