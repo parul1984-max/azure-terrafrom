@@ -9,8 +9,8 @@ variable "resource_group_name" {
 }
 
 variable "resource_group_name" {
-  description = "The name of the resource group"
-  default     = "BackendRG"
+  description = "parul"
+  default     = "parul"
 }
 
 
