@@ -8,6 +8,12 @@ variable "resource_group_name" {
   default     = "BackendRG"
 }
 
+variable "resource_group_name" {
+  description = "The name of the resource group"
+  default     = "BackendRG"
+}
+
+
 variable "location" {
   description = "location where storage account will be created"
   default = "Central US"
