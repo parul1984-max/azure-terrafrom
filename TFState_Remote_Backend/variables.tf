@@ -4,7 +4,7 @@ variable "azure_subscription_id" {
 }
 
 variable "resource_group_name" {
-  description = "The name of the resource group"
+  description = "game"
   default     = "BackendRG"
 }
 
